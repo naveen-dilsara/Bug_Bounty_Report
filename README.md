@@ -1,4 +1,4 @@
-# Bug Bounty Report
+# Bug Bounty Reports
 
 2nd Year, 2nd Semester: Module - Web Security
 
